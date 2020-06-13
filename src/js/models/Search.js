@@ -1,8 +1,6 @@
 //
 //
 
-// const res = await axios(`https://forkify-api.herokuapp.com/api/search?&q=${this.query}`);
-
 import axios from 'axios';
 
 export default class Search {
